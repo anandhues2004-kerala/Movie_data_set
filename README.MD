@@ -111,7 +111,7 @@ The React frontend communicates with the Django REST Framework backend through H
 - Git and GitHub
 - Postman
 - Python
-- Node.js and npm
+- React and npm
 
 ## 👨‍💻 Author
 
